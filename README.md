@@ -9,7 +9,7 @@ Predict loan approvals using machine learning
 Simulate approval thresholds
 Analyze trade-offs between approval volume and default risk
 
-# **Funnel Stages:**
+## **Funnel Stages:**
 Application Received
 Eligibility Screening
 Credit Evaluation (ML Scoring)
