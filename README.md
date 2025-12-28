@@ -5,9 +5,9 @@
 This project builds an end-to-end financial product funnel simulating a loan approval and risk management system, from data preparation and ML modeling to decision analytics and visualization.
 
 ## **The objective is to:**
-Predict loan approvals using machine learning
-Simulate approval thresholds
-Analyze trade-offs between approval volume and default risk
+Predict loan approvals using machine learning/
+Simulate approval thresholds/
+Analyze trade-offs between approval volume and default risk/
 
 ## **Funnel Stages:**
 Application Received
